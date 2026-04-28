@@ -1,4 +1,5 @@
 🎬 BookMyShow - Database Design Assignment
+
 📌 Overview
 
 This project models the backend database design of a movie ticket booking platform similar to BookMyShow.
@@ -9,6 +10,7 @@ View available movies in a theatre
 Select a date (next 7 days)
 Browse show timings for each movie
 Identify which screen (audi) the show is running in
+
 🎯 Objectives
 
 This assignment covers:
